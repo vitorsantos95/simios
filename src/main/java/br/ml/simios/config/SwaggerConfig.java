@@ -31,7 +31,7 @@ public class SwaggerConfig {
 
         final String description = "Api de avaliação de cadeias de DNA";
 
-        final ApiInfo build = new ApiInfoBuilder().title("Voce esta no ambiente: " + String.join(DELIMITER, profiles))
+        final ApiInfo build = new ApiInfoBuilder().title("Voce esta no ambiente de Produção" + String.join(DELIMITER, profiles))
                 .description(description)
                 .build();
 

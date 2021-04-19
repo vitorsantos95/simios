@@ -12,10 +12,5 @@ Basta executar o método main da classe SimiosApplication.java
 
 ### Documentação (Swagger)
 * local: http://localhost:8080/swagger-ui.html
-* aws:
-
-### Deploy
-These additional references should also help you:
-
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+* heroku: https://mercado-livre-exame-simios-api.herokuapp.com/swagger-ui.html
 
